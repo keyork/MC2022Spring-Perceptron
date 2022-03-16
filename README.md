@@ -31,32 +31,32 @@ python train.py
 
 - Dataset
 
-  ![raw_data_plot](https://gitee.com/cheng-kaiyue/u-pic/raw/img/uPic/2022-03-17/raw_data_plot.png)
+  ![raw_data_plot](./resources/raw_data_plot.png)
 
 - Result of model A
 
-  ![final_modelA](https://gitee.com/cheng-kaiyue/u-pic/raw/img/uPic/2022-03-17/final_modelA.png)
+  ![final_modelA](./resources/final_modelA.png)
 
 - Optim process of model A
 
-  ![result_modelA](https://gitee.com/cheng-kaiyue/u-pic/raw/img/uPic/2022-03-17/result_modelA.png)
+  ![result_modelA](./resources/result_modelA.png)
 
 - Loss of model A
 
-  ![loss_modelA](https://gitee.com/cheng-kaiyue/u-pic/raw/img/uPic/2022-03-17/loss_modelA.png)
+  ![loss_modelA](./resources/loss_modelA.png)
 
 - Result of model B
 
-  ![final_modelB](https://gitee.com/cheng-kaiyue/u-pic/raw/img/uPic/2022-03-17/final_modelB.png)
+  ![final_modelB](./resources/final_modelB.png)
 
 - Optim process of model B
 
-  ![result_modelB](https://gitee.com/cheng-kaiyue/u-pic/raw/img/uPic/2022-03-17/result_modelB.png)
+  ![result_modelB](./resources/result_modelB.png)
 
 - Loss of model B
 
-  ![loss_modelB](https://gitee.com/cheng-kaiyue/u-pic/raw/img/uPic/2022-03-17/loss_modelB.png)
+  ![loss_modelB](./resources/loss_modelB.png)
 
 ## Output in Terminal
 
-![image-20220317004044989](https://gitee.com/cheng-kaiyue/u-pic/raw/img/uPic/2022-03-17/image-20220317004044989.png)
+![image-20220317004044989](./resources/image-20220317004044989.png)
