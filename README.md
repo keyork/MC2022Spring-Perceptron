@@ -59,4 +59,4 @@ python train.py
 
 ## Output in Terminal
 
-![image-20220317004044989](./resources/image-20220317004044989.png)
+![image-20220317004044989](./resources/terminal.png)
